@@ -2,7 +2,6 @@
 _gh_pages
 _site
 .ruby-version
-
 # Numerous always-ignore extensions
 *.diff
 *.err
@@ -40,3 +39,6 @@ validation-report.json
 # Folders to ignore
 node_modules
 bower_components
+
+# S3 config
+s3_website.yml
